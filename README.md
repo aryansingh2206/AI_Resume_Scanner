@@ -17,6 +17,10 @@ A smart AI-based tool that analyzes resumes and matches them with job descriptio
 - **Deployment**: Railway (Backend), Vercel (Frontend)
 - **API Handling**: Flask-CORS, Fetch API
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/aef99674-c679-431b-a84f-aacc9cd9f2f6)
+
+
 ## 🚀 Installation & Setup
 
 ### 1️⃣ Clone the Repository
