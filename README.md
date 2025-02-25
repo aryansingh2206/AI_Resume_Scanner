@@ -40,8 +40,8 @@ npm run dev
 ```
 
 ## 📡 Deployment
-- **Frontend:** Vercel ([vercel.com](https://vercel.com/))
-- **Backend:** Railway ([railway.app](https://railway.app/))
+- **Frontend:** Vercel (https://ai-resume-scanner.vercel.app)
+- **Backend:** Railway (https://airesumescanner-production.up.railway.app/)
 
 ## 📜 API Endpoints
 - `POST /analyze`: Uploads a resume & job description, returns a match score.
